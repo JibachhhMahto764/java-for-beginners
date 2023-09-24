@@ -1,2 +1,2 @@
-# java-for-begginer
-let's begins the java programming ..
+# java-for-beginners
+let's begin with  java programming...
