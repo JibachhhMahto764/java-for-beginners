@@ -5,3 +5,12 @@ public static void main(String[] args){
 system.out.println("hello World!");
 }
 }
+
+// ALL THE THINGS WHICH IS USED IN THE ABOVE PROGRAM...
+// public = it means this class access from everywhere
+// class = it's a name group of properties and functions
+// Main = name of the file.
+// static = it's used to run the file without creating an object of class
+// system = system is a class that contains a variable called out
+// out = It's a type of print stream
+// println = print-stream access by out
