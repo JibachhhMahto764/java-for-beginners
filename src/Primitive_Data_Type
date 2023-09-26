@@ -1,5 +1,5 @@
 /* Definition--> Any Data Type that cannot break even further
-Example; int. float, character,double, long , boolean
+Example; int. float, character, double, long, boolean
 */
 
 public class Primitives{ 
