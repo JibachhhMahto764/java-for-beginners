@@ -1,44 +1,48 @@
-# java-for-beginners
-let's begin with  Java programming...
 
-What is Java? 
-Java is a high-level object-oriented programming language. Java was developed by James Gosling 
-at Sun Microsystem in 1991. The first version of Java was released in 1995.
 
-Java History:- 
- Company: Sun Microsystems (Oracle) 
- Designed By: James Gosling & his team 
- Idea: The Java idea came because designers wanted to create a language that should be 
-simple, platform-independent, tight-coded programming language, etc 
- Name: Oak (Java) 
- Year: 1991 (development) -1995 (release) 
- Symbol: Coffee
+# Java-for-beginner
 
-Editions of Java:- 
-1. J2SE: - Java 2 Standard Edition (Core Java) 
- In this edition, we learn Java fundamentals 
- Projects: Standalone Applications 
-2. J2EE:- Java 2 Enterprise Edition (Advance Java)
- In this edition, we learn server-side programming 
- Projects: Enterprise Applications 
-3. J2ME: -Java 2 Micro Edition (it has been replaced by Android) 
- In this edition, we learn microprogramming 
- Projects: Mobile Based Applications
+# Java Application
 
-// Features of Java programming...
-1. Object-Oriented: Java is an object-oriented language that allows us to create modular programs and reusable code.
+ This repository contains a simple CRUD (Create, Read, Update, Delete) application.
 
-2. Platform Independent: Java code is compiled by the compiler and converted into bytecode. This bytecode is a platform-independent code that can be run on multiple platforms - be it any operating system or architecture.
+## Getting Started
 
-3. Multithreaded: Java provides built-in support for multithreaded programming, which allows us to write programs that can perform many tasks simultaneously.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-4. Robust: Java has a strong memory management system. It helps in eliminating errors as it checks the code during compile and runtime.
+### Prerequisites
 
-5. Secure: Java is secured because it does not use explicit pointers and runs the programs inside the sandbox to prevent any activities from untrusted sources.
+What things do you need to install the software IntelliJ IDEA and how to install them?
 
-6. Distributed: Java has networking capabilities that make it a great choice for developing distributed computing applications.
+### Installing
 
-7. High Performance: Java achieves high performance through the use of bytecode, which can be easily translated into native machine code.
+A step-by-step series of examples that tell you how to get a development environment running.
 
-8. Dynamic: Java is a dynamic language, it carries a lot of runtime information that can be used to verify and resolve accesses to objects at runtime.
 
+## Running the tests
+
+Explain how to run the automated tests for this system.
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system.
+
+## Built With
+
+* java - The web framework used
+* CRUD - Dependency Management
+
+## Contributing
+
+Please read CONTRIBUTING.md(https://github.com/JibachhhMahto764/java-for-beginner) for details on our code of conduct, and the process for submitting pull requests to us.
+
+
+See also the list of contributors(https://github.com/JibachhhMahto764/java-for-beginner) who participated in this project.
+
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+```
