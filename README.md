@@ -16,7 +16,7 @@ simple, platform-independent, tight-coded programming language, etc
 
 Editions of Java:- 
 1. J2SE: - Java 2 Standard Edition (Core Java) 
- In this edition, we learn java fundamentals 
+ In this edition, we learn Java fundamentals 
  Projects: Standalone Applications 
 2. J2EE:- Java 2 Enterprise Edition (Advance Java)
  In this edition, we learn server-side programming 
