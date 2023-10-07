@@ -1,0 +1,18 @@
+/* Definition--> Any Data Type that cannot break even further
+Example; int. float, character, double, long, boolean
+*/
+
+public class Primitives{ 
+public static Void main( String[] args ){
+int rollno = 45;
+string name = "jibachh singh";
+float f = 3.145f;
+double d = 3.13457599923384753929348D;
+boolean b = true;
+char c = 'a';
+
+char c = 65;
+long l = 1_234_567_890;
+
+}
+}
