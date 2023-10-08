@@ -1,0 +1,5 @@
+#Type Promotion Rules
+1. All the byte, short, and char must be autotype promoted to int
+2. If any of the operants is long, the whole expression is promoted to a long
+3. If one operant is a float the entire expression is promoted to float
+4. If any of the operants is double, the result is double.
