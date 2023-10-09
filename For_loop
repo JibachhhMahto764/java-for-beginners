@@ -1,0 +1,3 @@
+for(int count=1; count!=5;count++){
+system.out.println(count);
+}
