@@ -1,0 +1,9 @@
+import class Input{
+public Static void main (String[] args){
+int count = 1;
+while (count!=5){
+system.out.println(count);
+count++;
+}
+}
+}
