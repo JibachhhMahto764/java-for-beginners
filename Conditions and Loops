@@ -1,0 +1,6 @@
+if statemenets syntax....
+if (boolean expression T or F){
+// body
+}else{
+// otherwise do this 
+}
