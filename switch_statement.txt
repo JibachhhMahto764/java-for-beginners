@@ -1,0 +1,21 @@
+// In switch statements, you can jump to various cases based on your expression
+syntax 
+  switch(expression){
+    // cases
+case1:
+//do somethings 
+    break;
+case2:
+//do something
+break;
+  default:
+    // do something
+}
+
+notes:-
+    1. cases have to be the same type as expressions and must be a constant or literal
+    2. duplicate case values are not allowed
+    3. Break is used to terminate the sequence 
+    4. If the break is not used, it will continue to the next case
+    5. Default will execute when none of the above does
+    6. If the default is not at the end, put a break after it.
