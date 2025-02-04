@@ -2,10 +2,6 @@
 
 # Java-for-beginner
 
-# Java Application
-
- This repository contains a simple CRUD (Create, Read, Update, Delete) application.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -14,23 +10,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things do you need to install the software IntelliJ IDEA and how to install them?
 
-### Installing
-
-A step-by-step series of examples that tell you how to get a development environment running.
-
-
-## Running the tests
-
-Explain how to run the automated tests for this system.
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system.
-
-## Built With
-
-* java - The web framework used
-* CRUD - Dependency Management
 
 ## Contributing
 
