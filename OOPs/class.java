@@ -4,9 +4,9 @@ public class main {
     public static void main(String[] args) {
         // store 5 roll numbers
 
-//        int[] numbers = new int[5];
-//        numbers[0] = 1;
-//        numbers[1] = 2;
+        int[] numbers = new int[5];
+       numbers[0] = 1;
+       numbers[1] = 2;
 //        numbers[2] = 3;
 //        numbers[3] = 4;
 //        numbers[4] = 5;
@@ -22,7 +22,7 @@ public class main {
 //        names[4] = "jibachh";
 //
 //
-//        //System.out.println(Arrays.toString(numbers));
+       System.out.println(Arrays.toString(numbers));
 //        System.out.println(Arrays.toString(names));
 // data of 5 students :: { roll no, name,marks}
         int[] rno =  new int[5];
