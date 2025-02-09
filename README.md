@@ -13,10 +13,8 @@ What things do you need to install the software IntelliJ IDEA and how to install
 
 ## Contributing
 
-Please read CONTRIBUTING.md(https://github.com/JibachhhMahto764/java-for-beginner) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-
-See also the list of contributors(https://github.com/JibachhhMahto764/java-for-beginner) who participated in this project.
 
 
 ## Acknowledgments
