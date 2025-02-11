@@ -1,0 +1,13 @@
+
+import java.io.FileOutputStream;
+
+public class SerializationClass {
+    public static void main(String[] args) {
+        Emp e = new Emp();
+        e.name =  "jibachh singh";
+        e.address = "kathmandu";
+
+
+      System.out.println("serialized data is here ");
+    }
+}

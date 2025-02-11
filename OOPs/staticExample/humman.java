@@ -1,5 +1,5 @@
 
-
+package OOPs.staticExample;
 public class humman {
     Integer age;
     String name;

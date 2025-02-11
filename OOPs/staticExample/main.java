@@ -1,3 +1,4 @@
+package OOPs.staticExample;
 public class main {
     public static void main(String[] args) {
        humman jibachh = new humman(12,"jibachh singh", 1000000.0, false);
