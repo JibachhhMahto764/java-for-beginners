@@ -11,7 +11,7 @@ public class humman {
         this.age = age;
         this.name = name;
         this.salary = salary;
-        this.married = married;
+        
         humman.population += 1;
     }
 }
